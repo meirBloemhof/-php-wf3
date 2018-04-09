@@ -44,7 +44,8 @@ if(!empty($errors)):
 
 endif;
 ?>
-<h1>Connexions</h1>
+<h1>Page de connexion</h1>
+<p>Veuillez vous identifier</p>
 <form method="post">
 	<div class="form-group">
 		<label>Email</label>
