@@ -27,7 +27,7 @@ include __DIR__. '/layout/top.php';
       <h5 class="card-title"><?= $product['nom'];?></h5>
       <p class="card-text"><small class="text-muted"><?=prixFr($product['prix']);?></small></p>
       <p class="card-text text-center">
-       <a class="btn btn-primary" href="produit.php?id=<?=$product['id'];?>"> Voir</a>
+       <a class="btn btn-primary" href="produit.php?id=<?=$product['id'];?>"> Voir la mere d'estelle en mini jupe</a>
      </p>
 
     </div>
