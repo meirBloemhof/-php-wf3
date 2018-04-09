@@ -1,7 +1,7 @@
 <?php
 //initialise la session
 session_start();
-define('RACINE_WEB', '/php/site/');
+define('RACINE_WEB', '/git/php-wf3/');
 define('PHOTO_WEB', RACINE_WEB .'/photo/');
 // sous xampp, $_server['document_root'] vaut c:\xampp\htdocs
 define('PHOTO_DIR', $_SERVER['DOCUMENT_ROOT']. '/php/site/photo/' );
