@@ -3,7 +3,7 @@ require_once __DIR__ .'/include/init.php';
 
 include __DIR__. '/layout/top.php';
 ?>
-<h1>page d'accueil</h1>
+<h1>page d'accueil faies par JC</h1>
 <?php
 include __DIR__. '/layout/bottom.php';
 ?>
